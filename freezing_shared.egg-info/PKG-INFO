@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: freezing-shared
+Version: 0.1.0
+Requires-Dist: freezing-model>=0.7.0
+Requires-Dist: stravalib>=1.0.0
+Requires-Dist: Flask

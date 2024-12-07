@@ -1,0 +1,9 @@
+setup.py
+freezing_shared.egg-info/PKG-INFO
+freezing_shared.egg-info/SOURCES.txt
+freezing_shared.egg-info/dependency_links.txt
+freezing_shared.egg-info/requires.txt
+freezing_shared.egg-info/top_level.txt
+freezingshared/__init__.py
+freezingshared/athlete/__init__.py
+freezingshared/athlete/registration.py

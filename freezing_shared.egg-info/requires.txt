@@ -1,0 +1,3 @@
+freezing-model>=0.7.0
+stravalib>=1.0.0
+Flask
